@@ -11,5 +11,5 @@ This app show how to use the following features :
 
 * Download our latest SDK from http://doc.adsum.io/index.php/adsum-ios-sdk/
 * Extract AdsumIOSAPI.framework in ```./AdsumDemo/```
-* You might need to run ```pod install```
+* You might need to run ```pod install``` (see https://cocoapods.org/)
 * Open AdsumDemo.xcworkspace
