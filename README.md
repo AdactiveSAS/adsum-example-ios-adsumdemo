@@ -13,3 +13,7 @@ This app show how to use the following features :
 * Extract AdsumIOSAPI.framework in ```./AdsumDemo/```
 * You might need to run ```pod install``` (see https://cocoapods.org/)
 * Open AdsumDemo.xcworkspace
+
+## Screenshot
+
+![alt test](./screenshot.png?raw=true)
