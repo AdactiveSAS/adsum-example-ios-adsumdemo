@@ -13,6 +13,8 @@ Our Documentation is available at http://doc.adsum.io/index.php/adsum-ios-sdk/
 
 ## Installation
 
+**You need to run your project on a physical device**
+
 * Download our latest SDK from http://doc.adsum.io/index.php/adsum-ios-sdk/
 * Extract AdsumIOSAPI.framework in ```./AdsumDemo/```
 * You might need to run ```pod install``` (see https://cocoapods.org/)
