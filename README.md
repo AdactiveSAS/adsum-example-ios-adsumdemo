@@ -7,6 +7,10 @@ This app show how to use the following features :
 * Path drawing
 * Poi manipulation
 
+## Documentation
+
+Our Documentation is available at http://doc.adsum.io/index.php/adsum-ios-sdk/
+
 ## Installation
 
 * Download our latest SDK from http://doc.adsum.io/index.php/adsum-ios-sdk/
